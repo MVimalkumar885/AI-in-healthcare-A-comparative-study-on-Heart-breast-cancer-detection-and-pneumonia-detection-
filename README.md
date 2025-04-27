@@ -1,6 +1,7 @@
 # AI-in-healthcare-A-comparative-study-on-Heart-breast-cancer-detection-and-pneumonia-detection-
 
 📖 Overview
+
 This project applies Explainable AI (XAI) techniques to machine learning models for diagnosing heart disease, breast cancer, and pneumonia.
 The aim is to improve trust, interpretability, and transparency in healthcare AI systems.
 
@@ -30,13 +31,11 @@ Platforms: Google Colab Pro, GitHub
 Visualization: Matplotlib, Seaborn
 
 📋 Project Structure
+
 Heart_Disease_Model.ipynb
-
 Breast_Cancer_Model.ipynb
-
 Pneumonia_Detection_Model.ipynb
 
-Explainability_Techniques.ipynb
 
 README.md
 
